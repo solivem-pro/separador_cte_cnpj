@@ -1,0 +1,23 @@
+Data do processamento: 15/08/2025 16:54:48
+Total de arquivos XML encontrados: 40
+Total de arquivos XML processados: 40
+Total de arquivos XML com erros: 0
+Total de arquivos XML duplicados: 0
+Total de arquivos XML efetivamente separados: 40
+|------------------------------------------------------------|
+
+
+Relatório de arquivos separados por CNPJ e Data de Emissão:
+
+- CNPJ 0.Erros:
+
+
+- CNPJ 1.Duplicados:
+
+
+- CNPJ 9999999999999:
+    2025-08-01: 11 arquivo(s)
+    2025-08-08: 14 arquivo(s)
+
+- CNPJ 9999999999999:
+    2025-08-07: 15 arquivo(s)
